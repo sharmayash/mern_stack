@@ -1,0 +1,20 @@
+{
+  "name": "mern_shopping_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "yash sharma",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
